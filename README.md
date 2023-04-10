@@ -24,3 +24,26 @@ Crie um novo banco de dados de nome dboficina
 Faça a importação do DUMP deste projeto (pasta banco) selecionando o banco de dados dboficina
 Em "Releases" Faça o download do instalador OS-AtlantidaOficinaMecanica
 Execute a instalação. Na tela de login faça a autenticação com o usuário "admin" usando a senha "admin"
+## Capturas do Programa
+
+## Tela Principal
+
+![tela](https://github.com/karenoliveiraw/OS-AtlantidaOficinaMecanica/blob/main/capturas/telaprincipal.PNG)
+
+## Tela de Login
+
+![tela](https://raw.githubusercontent.com/karenoliveiraw/OS-AtlantidaOficinaMecanica/main/capturas/teladelogin.PNG)
+## Tela de Usuário
+
+![tela](https://raw.githubusercontent.com/karenoliveiraw/OS-AtlantidaOficinaMecanica/main/capturas/teladeusuarios.PNG)
+## Tela de Clientes
+![tela](https://raw.githubusercontent.com/karenoliveiraw/OS-AtlantidaOficinaMecanica/main/capturas/teladeclientes.PNG)
+## Tela da Ordem de Serviço
+
+![tela](https://raw.githubusercontent.com/karenoliveiraw/OS-AtlantidaOficinaMecanica/main/capturas/teladeos.PNG)
+## Tela de Relatórios
+
+![tela](https://raw.githubusercontent.com/karenoliveiraw/OS-AtlantidaOficinaMecanica/main/capturas/teladerelatorios.PNG)
+
+## Sobre
+![tela](https://raw.githubusercontent.com/karenoliveiraw/OS-AtlantidaOficinaMecanica/main/capturas/telasobre.PNG)
